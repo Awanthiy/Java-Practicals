@@ -134,4 +134,42 @@ public class Main {
     }
 }
 
+package com.mycompany.excer31;
+public class Excer31
+{
+
+    public static void main(String[] args)
+    {
+        Employee employee = new Employee();
+        employee.setName("John Doe");
+        employee.setAge(30);
+        employee.setSalary(100000);
+    }
+}
+//part 2
+package com.mycompany.excer31;
+ class Employee {
+
+  // private instance variables
+  private String name;
+  private int age;
+  private double salary;
+
+  // constructor
+  public Employee(String name, int age, double salary) {
+    this.name = name;
+    this.age = age;
+    this.salary = salary;
+  }
+
+}
+package com.mycompany.excer31;
+public class Excer31
+{
+
+    public static void main(String[] args)
+    {
+        Employee employee = new Employee("John Doe", 30, 100000);
+    }
+}
 
