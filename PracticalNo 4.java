@@ -151,15 +151,6 @@ public class TestInheritence
     }
 }
 
--------------------< com.mycompany:TestInheritence >--------------------
-Building TestInheritence 1.0-SNAPSHOT
---------------------------------[ jar ]---------------------------------
-9
-6
-------------------------------------------------------------------------
-BUILD SUCCESS
-------------------------------------------------------------------------
-
 /*
 Exercise 03: 
 Recall the following scenario discussed during the class. Develop a code base to represent the scenario. Add a test class to invoke Lecturer and Student class by creating atleast one object from each.
@@ -274,18 +265,7 @@ public class TestScenario
     }
 }
 
-Output
-Student Name: Saman Perera
-Student ID: 28748
-Student Course: Computer Science
-
-Lecturer Name: Dr.Kamal Fernando
-Lecturer ID: 1001
-Lecturer Programme: Software Engineering
-------------------------------------------------------------------------
-BUILD SUCCESS
-------------------------------------------------------------------------
-
+ 
 /*Exercise 04
 Develop the following class execute and discuss the answer: Please note that each public class stored in separate files. Write down the answer.
 public class Animal{}
