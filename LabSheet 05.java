@@ -1,4 +1,4 @@
-/*Exercise 02:
+/*Exercise 01:
 Develop the following class execute and discuss the answer: Please note that each class stored in separate files. Write down the answer.
 class SuperB {
     int x;
